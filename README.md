@@ -1,5 +1,7 @@
-# Housing_Price_Predict
+# House Price Prediction with Machine Learning
 
-https://www.kaggle.com/datasets/camnugent/california-housing-prices?resource=download
+## Implemented data preprocessing, utilized Linear Regression & RandomForestRegressor from scikit-learn, and improved predictive models by 23% for residential price estimation. 
 
-https://www.youtube.com/watch?v=Wqmtf9SA_kk
+### CREDITS: 
+### https://www.kaggle.com/datasets/camnugent/california-housing-prices?resource=download
+### https://www.youtube.com/watch?v=Wqmtf9SA_kk
